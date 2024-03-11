@@ -30,7 +30,8 @@ p{
     clear:both
 }
 img{
-    border:0
+    border:0;
+    width:50%;
 }
 input.dv,textarea.dv{
     color:#aaa !important
